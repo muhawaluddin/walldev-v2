@@ -9,7 +9,7 @@ Personal website and Blog
 Build with Hugo v0.91.0
 
 ## Hosting
-Netlify 
+Netlify +
 
 ## Plugins
 1. Bootstrap
